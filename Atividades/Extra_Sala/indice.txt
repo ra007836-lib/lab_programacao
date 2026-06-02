@@ -1,0 +1,68 @@
+Atividades
+
+1. O Validador de Intervalo Problema: 
+Faça um programa que leia um número do teclado e verifique se ele está dentro do intervalo entre 10 e 50 (inclusive).
+Se estiver, exiba "Dado Válido".
+Caso contrário, exiba "Dado Inválido".
+Atente-se para que o programa repita essa validação
+até que o usuário digite o número 0 para sair.
+
+---------------------------------------------------------
+
+2. O Multiplicador Acumulativo
+
+Problema: Escreva um programa que peça um número inteiro positivo ao usuário e, utilizando um laço for, 
+calcule e mostre o resultado do produto de todos os números Impares de 1 até o número digitado.
+
+---------------------------------------------------------
+
+3. O Contador de Vogais
+
+Problema: Peça para o usuário digitar uma palavra.
+O programa deve percorrer a string caractere por caractere
+e contar quantas vogais (a, e, i, o, u) existem na palavra
+
+---------------------------------------------------------
+
+4. O Filtro de Notas Problema: 
+Crie um programa que preencha uma lista com as notas de 5 alunos
+(valores lidos do teclado).
+Em seguida, o programa deve remover a menor nota da lista
+utilizando comandos de vetor e exibir as notas restantes na tela.
+
+---------------------------------------------------------
+
+5. O Localizador de Duplicatas Problema: 
+Preencha uma lista com 6 números inteiros informados pelo usuário.
+Depois, peça para ele digitar um número X.
+O programa deve usar métodos de lista para informar quantas vezes X aparece na lista
+e, se aparecer, qual é o indice da primeira ocorrência.
+
+---------------------------------------------------------
+
+6. Inversão Espelhada de Vetor
+
+Problema: Faça um programa que leia 5 nomes e os armazene em uma lista.
+Em seguida, o programa deve criar uma segunda lista contendo os mesmos nomes,
+mas na ordem inversa (o último nome lido deve ser o primeiro da nova lista).
+Imprima ambas.
+
+---------------------------------------------------------
+
+
+7. O Separador Par/impar Dinâmico
+
+Problema: Elabore um programa que leia 10 números inteiros do teclado. 
+À medida que os números forem lidos, os pares devem ser inseridos em uma lista chamada pares e os impares em uma lista chamada impares. 
+Porém, se o usuário digitar um número que já foi inserido anteriormente em qualquer uma das listas, 
+o programa deve recusar o número e pedir para digitar outro.
+
+---------------------------------------------------------
+
+8. O "Split" Manual (Substituição de Strings)
+
+Problema: Sem usar o comando .split() nativo do Python, faça um programa 
+que receba uma frase curta separada por espaços (ex: "Banco de Dados") 
+e transforme cada palavra em um elemento de um vetor (ex: ["Banco", "de", "Dados"]).
+
+---------------------------------------------------------
